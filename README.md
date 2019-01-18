@@ -1,2 +1,2 @@
 # PiWars
-code for Reading School piwars bot 
+Code for Reading School's Pi Wars robot 

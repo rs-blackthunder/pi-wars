@@ -93,5 +93,3 @@ finally:
     curses.nocbreak(); screen.keypad(0); curses.echo()
     curses.endwin()
     GPIO.cleanup()
-    
-
